@@ -201,6 +201,23 @@ Point Calculation
 
 ---
 
+# Data Science
+
+| Technology        | Function                |
+| ----------------- | ----------------------- |
+| Python            | Core language           |
+| Jupyter Notebook  | Experimentation         |
+| Kaggle            | Dataset sourcing        |
+| Pandas            | Data manipulation       |
+| NumPy             | Numerical computing     |
+| Matplotlib        | Data visualization      |
+| Seaborn           | Statistical visualization |
+| OpenCV            | Image processing        |
+| Pillow            | Image I/O               |
+| Streamlit         | Prototype app           |
+
+---
+
 # 🗄️ Database Structure
 
 ## User
@@ -367,6 +384,13 @@ Meningkatkan kesadaran masyarakat terhadap pentingnya pemilahan sampah melalui t
 * CNN/BPNN Training
 * AI Inference
 * Image Classification
+
+## Data Science
+
+* Data cleaning and preprocessing
+* Exploratory data analysis (EDA)
+* Feature engineering
+* Model evaluation and reporting
 
 ---
 
