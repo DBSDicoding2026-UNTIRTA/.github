@@ -57,6 +57,24 @@ Project ini dikembangkan sebagai bagian dari:
 
 ---
 
+# 🤝 Contributors
+
+<div align="center">
+
+| Member | ID | Email |
+|:--|:--|:--|
+| 👨‍💻 Dafa Rizqy | `CFCC318D6Y2872` | cfcc318d6y2872@student.devacademy.id |
+| 👩‍💻 Sarah Aulia Rahmah | `CDCC318D6X2160` | CDCC318D6X2160@student.devacademy.id |
+| 👩‍💻 Nurul Santi Hafifah | `CDCC318D6X2161` | CDCC318D6X2161@student.devacademy.id |
+| 👨‍💻 Muhamad Lutfi | `CACC318D6Y2217` | cacc318d6y2217@student.devacademy.id |
+| 👨‍💻 Sirrul Fatih Ahdiat | `CFCC318D6Y2276` | CFCC318D6Y2276@student.devacademy.id |
+| 👨‍💻 Guna Fatala | `CACC318D6Y2519` | CACC318D6Y2519@student.devacademy.id |
+
+
+</div>
+
+---
+
 # ✨ Main Features
 
 ## 🤖 AI Waste Classification
