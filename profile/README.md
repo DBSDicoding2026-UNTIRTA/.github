@@ -1,5 +1,27 @@
 
 
+<div align="center">
+
+  <img 
+    src="https://github.com/user-attachments/assets/8a3052b2-0616-4b7d-804b-a52f5666ff4d"
+    alt="Preview 1"
+    width="800"
+    style="border-radius: 16px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+  />
+
+  <br/>
+
+  <img 
+    src="https://github.com/user-attachments/assets/34301458-39a4-45c6-82ff-54e2f4d553b5"
+    alt="Preview 2"
+    width="800"
+    style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
+  />
+
+</div>
+
+
+
 
 # 🌱♻️ PILAH YUK!!
 
